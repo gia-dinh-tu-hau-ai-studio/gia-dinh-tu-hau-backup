@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Gia Đình Tư Hậu</string>
+    <string name="title_activity_main">Gia Đình Tư Hậu</string>
+    <string name="package_name">com.giadinhtuhau.app</string>
+    <string name="custom_url_scheme">com.giadinhtuhau.app</string>
+</resources>
